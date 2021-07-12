@@ -1,0 +1,9 @@
+syntax = "proto3";
+package sensors;
+
+message Cam{
+    int32 cols = 1;
+    int32 rows = 2;
+    bytes image_data = 3;
+    double timestamp = 4;
+}

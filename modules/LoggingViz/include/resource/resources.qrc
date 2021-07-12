@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="map">kakao_map.html</file>
+        <file alias="logo">images/DIVA_logo.jpg</file>
+        <file alias="icon">images/DIVA_icon.png</file>
+    </qresource>
+</RCC>
